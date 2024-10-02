@@ -1,5 +1,10 @@
 # Image Classification with ResNet
 
+## Demo
+
+![Demo](video.gif)
+
+
 ## Overview
 
 This project demonstrates how to use the ResNet model for image classification. It allows users to input an image, and the model predicts the object in the image along with its confidence level.
