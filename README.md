@@ -2,7 +2,10 @@
 
 ## Demo
 
-![Demo](video.gif)
+![Demo Image 1](image1.png)
+![Demo Image 2](image2.png)
+![Demo Image 1](image3.png)
+
 
 
 ## Overview
